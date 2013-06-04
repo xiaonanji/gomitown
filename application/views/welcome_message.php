@@ -41,7 +41,7 @@
 		text-align: right;
 		font-style: italic;
 		padding: 0 10px 0 10px;
-		margin: 20px 0 0 0;
+		margin-top: 20px;
 	}
 	
 	#container{
